@@ -20,6 +20,11 @@ Below are the links to closed issues along with brief descriptions:
    The require_role dependency did not properly handle invalid or missing tokens, resulting in a 401 error when accessing the delete_user endpoint. This issue has been resolved by improving token validation to ensure proper handling of missing or invalid tokens.
 
 ---
+## New Tests
+You can explore the details here in the new_tests branch: 
+ **[Link to Test branch](https://github.com/vraj-shaileshbhai-patel/user_management_final_project/tree/new_tests)** 
+
+---
 
 ## New Feature: User Search and Filtering
 You can explore the details here in the feature branch:  
@@ -41,5 +46,10 @@ You can explore the details here in the feature branch:
 
 ## My Experience
 
-I had a very good experience throughout this course, guided by Professor Keith Williams. I learned a lot of new technologies and tools like Docker and GitHub Actions, which have significantly expanded my technical skills. The course provided great exposure to industry-level coding practices, helping me understand how real-world software development works. Overall, it was a really valuable experience, and I feel more confident in applying my skills to future projects.
+I had a very good experience throughout this course, guided by Professor Keith Williams. This course provided me with the opportunity to dive into various cutting-edge technologies and tools, such as Docker and GitHub Actions, which were entirely new to me. These tools have significantly expanded my technical skill set, enhancing my ability to deploy, manage, and automate workflows efficiently.
+
+One of the most valuable aspects of this course was the exposure to industry-level coding practices. The assignments and projects challenged me to adopt professional software development standards, including version control using Git, continuous integration with GitHub Actions, and containerization with Docker. These experiences have not only deepened my understanding of modern software development but also equipped me with the tools needed to work on real-world projects.
+
+The guidance provided by Professor Keith Williams was invaluable, and his expertise in the field ensured that the learning process was both enriching and insightful. Overall, this course has been an incredibly rewarding experience. I feel much more confident in applying my newfound skills to real-world projects, and I look forward to leveraging these skills in my future career.
+
 
