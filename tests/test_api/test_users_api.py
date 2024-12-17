@@ -194,5 +194,3 @@ async def test_list_users_as_manager(async_client, manager_token):
 async def test_list_users_unauthorized(async_client, user_token):
     response = await async_client.get("/users/", headers={"Authorization": f"Bearer {user_token}"})
     assert response.status_code == 403
-
-
